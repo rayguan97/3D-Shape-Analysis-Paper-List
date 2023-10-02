@@ -67,7 +67,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV2021](https://arxiv.org/abs/2108.10723)] Improving 3D Object Detection with Channel-wise Transformer
 - [[ICCV2021](https://arxiv.org/abs/2109.02497)] Voxel Transformer for 3D Object Detection
 - [[CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Chai_To_the_Point_Efficient_3D_Object_Detection_in_the_Range_CVPR_2021_paper.pdf)] To the Point: Efficient 3D Object Detection in the Range Image With Graph Convolution Kernels
-- [[Arxiv](https://arxiv.org/abs/2104.11896)] M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers
+- [[WACV2022](https://arxiv.org/abs/2104.11896)] M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers [[github](https://github.com/rayguan97/M3DETR)]
 - [[ICCV2021](https://arxiv.org/abs/2108.10312v1)] Exploring Simple 3D Multi-Object Tracking for Autonomous Driving
 - [[ICCV2021](https://arxiv.org/abs/2108.08258v1)] LIGA-Stereo: Learning LiDAR Geometry Aware Representations for Stereo-based 3D Detector
 - [[ICCV2021](https://arxiv.org/abs/2108.07478v1)] Instance Segmentation in 3D Scenes using Semantic Superpoint Tree Networks [[github](https://github.com/Gorilla-Lab-SCUT/SSTNet)]
@@ -1465,6 +1465,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[ICCV2023](https://arxiv.org/abs/2303.17778)] CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition [[github](https://github.com/rayguan97/crossloc3d)]
 - [[Arxiv](https://arxiv.org/abs/2308.02669)] ConceptLab: Creative Generation using Diffusion Prior Constraints [[Project](https://kfirgoldberg.github.io/ConceptLab/)]
 - [[Arxiv](https://arxiv.org/abs/2303.11886)] Fast Complementary Dynamics via Skinning Eigenmodes [[Project](https://www.dgp.toronto.edu/projects/fast_complementary_dynamics_site/)]
 - [[Arxiv](https://arxiv.org/abs/2307.14331)] Visual Instruction Inversion: Image Editing via Visual Prompting [[Project](https://thaoshibe.github.io/visii/)]
